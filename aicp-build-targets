@@ -1,33 +1,33 @@
 # AICP  build target list
-# <ID> <lunchcombo> <branch> <maintainer> [period: "D"aily, "W"eekly or "M"onthly]  <Day: 1 Monday - 7 Sunday - 0 Everyday>
+# <ID> <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]  <Day: 1 Monday - 7 Sunday - 0 Everyday> <maintainer>
 
 # Daily 
-1 aicp_m7-userdebug n7.1 alasadi56@gmail.com D 0
-5 aicp_deb-userdebug n7.1 hcolmenares@gmail.com D 0
-32 aicp_m8-userdebug n7.1 mihranz7@gmail.com D 0
-43 aicp_bacon-userdebug n7.1 cherukupallip@gmail.com D 0
-70 aicp_shamu-userdebug n7.1 doc.divxm@gmail.com D 0
-90 aicp_cancro-userdebug n7.1 nihar.deshpande1810@gmail.com D 0
-94 aicp_clark-userdebug n7.1 hashbang173@gmail.com D 0
-96 aicp_h815-userdebug n7.1 thermskin@gmail.com D 0
-97 aicp_angler-userdebug n7.1 lordclockan@gmail.com, doc.divxm@gmail.com D 0
-98 aicp_bullhead-userdebug n7.1 djomi400@gmail.com D 1
-105 aicp_osprey-userdebug n7.1 shivamdesaixda@gmail.com D 0
-108 aicp_lux-userdebug n7.1 nickvanbokhorst@gmail.com D 0
-110 aicp_wt88047-userdebug n7.1 s.sawrav@gmail.com D 0
-128 aicp_pme-userdebug n7.1 abittin@gmail.com D 0
-136 aicp_athene-userdebug n7.1 alasadi56@gmail.com D 0
-141 aicp_gemini-userdebug n7.1 whyorean@gmail.com D 0
-146 aicp_a6000-userdebug n7.1 harshitjain6751@gmail.com D 0
-149 aicp_mido-userdebug n7.1 warabhishek@gmail.com D 0
-178 aicp_cheeseburger-userdebug n7.1 darraghmcgee20@gmail.com, spiritcroc@gmail.com D 0
-184 aicp_capricorn-userdebug n7.1 kaankulahli@gmail.com D 0
-191 aicp_santoni-userdebug n7.1 hemantbeast@gmail.com D 0
+1 aicp_m7-userdebug n7.1 D 0 alasadi56@gmail.com 
+5 aicp_deb-userdebug n7.1 D 0 hcolmenares@gmail.com 
+32 aicp_m8-userdebug n7.1 D 0 mihranz7@gmail.com 
+43 aicp_bacon-userdebug n7.1 D 0 cherukupallip@gmail.com
+70 aicp_shamu-userdebug n7.1 D 0 doc.divxm@gmail.com
+90 aicp_cancro-userdebug n7.1 D 0 nihar.deshpande1810@gmail.com
+94 aicp_clark-userdebug n7.1 D 0 hashbang173@gmail.com
+96 aicp_h815-userdebug n7.1 D 0 thermskin@gmail.com
+97 aicp_angler-userdebug n7.1 D 0 lordclockan@gmail.com, doc.divxm@gmail.com
+98 aicp_bullhead-userdebug n7.1 D 0 djomi400@gmail.com
+105 aicp_osprey-userdebug n7.1 D 0 shivamdesaixda@gmail.com
+108 aicp_lux-userdebug n7.1 D 0 nickvanbokhorst@gmail.com
+110 aicp_wt88047-userdebug n7.1 D 0 s.sawrav@gmail.com
+128 aicp_pme-userdebug n7.1 D 0 abittin@gmail.com
+136 aicp_athene-userdebug n7.1 D 0 alasadi56@gmail.com
+141 aicp_gemini-userdebug n7.1 D 0 whyorean@gmail.com
+146 aicp_a6000-userdebug n7.1 D 0 harshitjain6751@gmail.com
+149 aicp_mido-userdebug n7.1 D 0 warabhishek@gmail.com
+178 aicp_cheeseburger-userdebug n7.1 D 0 darraghmcgee20@gmail.com, spiritcroc@gmail.com
+184 aicp_capricorn-userdebug n7.1 D 0 kaankulahli@gmail.com
+191 aicp_santoni-userdebug n7.1 D 0 hemantbeast@gmail.com
 
 # Weekly
-56 aicp_jfltexx-userdebug n7.1 doc.divxm@gmail.com W 5
-145 aicp_Z00ED-userdebug n7.1 kaankulahli@gmail.com W 5
-159 aicp_find7-userdebug n7.1 surajdazz@gmail.com W 5
-160 aicp_z2_plus-userdebug n7.1 faizauthar@gmail.com W 5
-161 aicp_axon7-userdebug n7.1 starrbeartony14@gmail.com W 5
-187 aicp_natrium-userdebug n7.1 kaankulahli@gmail.com W 5
+56 aicp_jfltexx-userdebug n7.1 W 5 doc.divxm@gmail.com 
+145 aicp_Z00ED-userdebug n7.1 W 5 kaankulahli@gmail.com
+159 aicp_find7-userdebug n7.1 W 5 surajdazz@gmail.com
+160 aicp_z2_plus-userdebug n7.1 W 5 faizauthar@gmail.com
+161 aicp_axon7-userdebug n7.1 W 5 starrbeartony14@gmail.com
+187 aicp_natrium-userdebug n7.1 W 5 kaankulahli@gmail.com
