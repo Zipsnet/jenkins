@@ -1,5 +1,5 @@
 # AICP  build target list
-# <ID> <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]  <Day: 1 Monday - 7 Sunday - 0 Everyday> <maintainer>
+# <ID> <lunch> <branch> [period: "D"aily, "W"eekly ]  <Day: 1 Monday - 7 Sunday - 0 Everyday> <maintainer>
 
 # Daily 
 1 aicp_m7-userdebug n7.1 D 0 alasadi56@gmail.com 
