@@ -1,8 +1,33 @@
-# CM build target list
-# <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
-# Absence of a period indicates Daily (the default)
+# AICP  build target list
+# <ID> <lunchcombo> <branch> <maintainer> [period: "D"aily, "W"eekly or "M"onthly]  <Day: 1 Monday - 7 Sunday - 0 Everyday>
 
-aicp_endeavoru-userdebug
-aicp_grouper-userdebug
-aicp_m7-userdebug
-aicp_hammerhead-userdebug
+# Daily 
+1 aicp_m7-userdebug n7.1 alasadi56@gmail.com D 1
+5 aicp_deb-userdebug n7.1 hcolmenares@gmail.com D 1
+32 aicp_m8-userdebug n7.1 mihranz7@gmail.com D 1
+43 aicp_bacon-userdebug n7.1 cherukupallip@gmail.com D 1
+70 aicp_shamu-userdebug n7.1 doc.divxm@gmail.com D 1
+90 aicp_cancro-userdebug n7.1 nihar.deshpande1810@gmail.com D 1
+94 aicp_clark-userdebug n7.1 hashbang173@gmail.com D 1
+96 aicp_h815-userdebug n7.1 thermskin@gmail.com D 1
+97 aicp_angler-userdebug n7.1 lordclockan@gmail.com, doc.divxm@gmail.com D 1
+98 aicp_bullhead-userdebug n7.1 djomi400@gmail.com D 1
+105 aicp_osprey-userdebug n7.1 shivamdesaixda@gmail.com D 1
+108 aicp_lux-userdebug n7.1 nickvanbokhorst@gmail.com D 1
+110 aicp_wt88047-userdebug n7.1 s.sawrav@gmail.com D 1
+128 aicp_pme-userdebug n7.1 abittin@gmail.com D 1
+136 aicp_athene-userdebug n7.1 alasadi56@gmail.com D 1
+141 aicp_gemini-userdebug n7.1 whyorean@gmail.com D 1
+146 aicp_a6000-userdebug n7.1 harshitjain6751@gmail.com D 1
+149 aicp_mido-userdebug n7.1 warabhishek@gmail.com D 1
+178 aicp_cheeseburger-userdebug n7.1 darraghmcgee20@gmail.com, spiritcroc@gmail.com D 1
+184 aicp_capricorn-userdebug n7.1 kaankulahli@gmail.com D 1
+191 aicp_santoni-userdebug n7.1 hemantbeast@gmail.com D 1
+
+# Weekly
+56 aicp_jfltexx-userdebug n7.1 doc.divxm@gmail.com W 5
+145 aicp_Z00ED-userdebug n7.1 kaankulahli@gmail.com W 5
+159 aicp_find7-userdebug n7.1 surajdazz@gmail.com W 5
+160 aicp_z2_plus-userdebug n7.1 faizauthar@gmail.com W 5
+161 aicp_axon7-userdebug n7.1 starrbeartony14@gmail.com W 5
+187 aicp_natrium-userdebug n7.1 kaankulahli@gmail.com W 5
